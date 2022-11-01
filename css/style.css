@@ -5,7 +5,7 @@
     
     /* Estilos do corpo */
     body{
-    background:url(/imagem/fundo.jpg);
+    background:url(./imagem/fundo.jpg);
     text-align: center;
     background-color: #141414;
     background-size: cover;
